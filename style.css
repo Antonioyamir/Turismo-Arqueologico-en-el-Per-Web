@@ -10,6 +10,13 @@ body {
 
 .text {
     text-align: center;
+    color:#000000;
+}
+
+.text1 {
+    color:#000000;
+    background-color: rgb(233, 198, 167);
+    border-radius: 20px;
 }
 
 header {
@@ -43,6 +50,13 @@ nav a {
     color: #ff7a7a;
     text-decoration: none;
     padding: 5px 10px;
+    
+}
+
+.navb {
+    color: #ffffff;
+    text-decoration: none;
+    padding: 5px 5px;
     
 }
 
@@ -124,6 +138,30 @@ main {
     background-repeat: no-repeat;
     background-size: 100% 110%;
     height: 640px;
+}
+
+.main10 {
+    padding: 20px;
+    background-image: url('https://www.27vakantiedagen.nl/wp-content/themes/dwi27v/img/pics/peru/machu-picchu3.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 110%;
+    height: 1600px;
+}
+
+.main11 {
+    padding: 20px;
+    background-image: url('https://www.en-vols.com/wp-content/uploads/afmm/2022/09/GettyImages-1344819576_Perou_sites_pre_incas_Michelin.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 110%;
+    height: 1450px;
+}
+
+.main12 {
+    padding: 20px;
+    background-image: url('https://hiddenincatours.com/wp-content/uploads/2014/07/chavin-de-huantar-temple.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 110%;
+    height: 1450px;
 }
 
 article {
@@ -273,4 +311,5 @@ footer {
     padding: 10px;
     border-radius: 20px;
 }
+
 
